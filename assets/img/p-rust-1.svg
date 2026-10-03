@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Placeholder product image">
+  <defs>
+    <linearGradient id="wrust" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4e8d8"/><stop offset="1" stop-color="#e6d3bd"/></linearGradient>
+    <radialGradient id="grust" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#wrust)"/><rect width="800" height="1000" fill="url(#grust)"/>
+  <ellipse cx="400" cy="945" rx="230" ry="18" fill="#000" opacity=".08"/><g>
+    <rect x="262" y="262" width="276" height="48" fill="#f2d9b6"/>
+    <path d="M262 300 L538 300 L568 410 L232 410 Z" fill="#a8482b"/>
+        <path d="M262 300 L232 410 M538 300 L568 410" stroke="#000" stroke-opacity=".08"/>
+        <path d="M262 300 L232 410" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M301.42857142857144 300 L280 410" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M340.85714285714283 300 L328 410" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M380.2857142857143 300 L376 410" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M419.71428571428567 300 L424 410" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M459.1428571428571 300 L472 410" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M498.57142857142856 300 L520 410" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M538 300 L568 410" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
+        <path d="M232 410 L568 410" stroke="#f2d9b6" stroke-width="5" opacity=".85"/><path d="M232 405 L568 405 L610 540 L190 540 Z" fill="#b9593a"/>
+        <path d="M232 405 L190 540 M568 405 L610 540" stroke="#000" stroke-opacity=".08"/>
+        <path d="M232 405 L190 540" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M280 405 L250 540" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M328 405 L310 540" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M376 405 L370 540" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M424 405 L430 540" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M472 405 L490 540" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M520 405 L550 540" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M568 405 L610 540" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
+        <path d="M190 540 L610 540" stroke="#f2d9b6" stroke-width="5" opacity=".85"/><path d="M190 535 L610 535 L660 690 L140 690 Z" fill="#c86d49"/>
+        <path d="M190 535 L140 690 M610 535 L660 690" stroke="#000" stroke-opacity=".08"/>
+        <path d="M190 535 L140 690" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M250 535 L214.28571428571428 690" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M310 535 L288.57142857142856 690" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M370 535 L362.85714285714283 690" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M430 535 L437.1428571428571 690" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M490 535 L511.42857142857144 690" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M550 535 L585.7142857142857 690" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M610 535 L660 690" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
+        <path d="M140 690 L660 690" stroke="#f2d9b6" stroke-width="5" opacity=".85"/><path d="M140 685 L660 685 L720 860 L80 860 Z" fill="#d98660"/>
+        <path d="M140 685 L80 860 M660 685 L720 860" stroke="#000" stroke-opacity=".08"/>
+        <path d="M140 685 L80 860" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M214.28571428571428 685 L171.42857142857142 860" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M288.57142857142856 685 L262.85714285714283 860" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M362.85714285714283 685 L354.2857142857143 860" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M437.1428571428571 685 L445.71428571428567 860" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M511.42857142857144 685 L537.1428571428571 860" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M585.7142857142857 685 L628.5714285714286 860" stroke="#fff" stroke-opacity=".16" stroke-width="3"/><path d="M660 685 L720 860" stroke="#fff" stroke-opacity=".16" stroke-width="3"/>
+        <path d="M80 860 L720 860" stroke="#f2d9b6" stroke-width="5" opacity=".85"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif"><rect x="496" y="42" width="260" height="30" rx="2" fill="#000" opacity=".55"/>
+  <text x="626" y="62" text-anchor="middle" font-size="12" letter-spacing="2.2" fill="#fff">PHOTO PLACEHOLDER</text></g>
+  <text x="44" y="950" font-family="Georgia, serif" font-style="italic" font-size="44" fill="#1f4a47" opacity=".75">Shasha</text></svg>

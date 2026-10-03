@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Placeholder product image">
+  <defs>
+    <linearGradient id="wmustard" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4e8d8"/><stop offset="1" stop-color="#e6d3bd"/></linearGradient>
+    <radialGradient id="gmustard" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#wmustard)"/><rect width="800" height="1000" fill="url(#gmustard)"/>
+  <ellipse cx="400" cy="945" rx="230" ry="18" fill="#000" opacity=".08"/>
+  <defs><pattern id="pmustard" width="46" height="46" patternUnits="userSpaceOnUse"><rect width="46" height="46" fill="#d49a2c"/>
+      <path d="M23 8c4 5 4 9 0 14-4-5-4-9 0-14zM23 26c4 5 4 9 0 14-4-5-4-9 0-14z" fill="#fff4d6" opacity=".8"/><circle cx="2" cy="23" r="2" fill="#fff4d6" opacity=".6"/><circle cx="44" cy="23" r="2" fill="#fff4d6" opacity=".6"/></pattern></defs>
+  <g>
+    <!-- sleeves -->
+    <path d="M300 205 L228 262 L206 470 L262 478 L300 330 Z" fill="url(#pmustard)"/>
+    <path d="M500 205 L572 262 L594 470 L538 478 L500 330 Z" fill="url(#pmustard)"/>
+    <!-- body -->
+    <path d="M336 162 Q400 232 464 162 L506 192 L520 330 L538 800 L262 800 L280 330 L294 192 Z" fill="url(#pmustard)"/>
+    <path d="M336 162 Q400 232 464 162" fill="none" stroke="#8a3b2a" stroke-width="6"/>
+    <!-- yoke -->
+    <path d="M300 250 Q400 330 500 250 L506 292 Q400 372 294 292 Z" fill="#8a3b2a" opacity=".9"/>
+    <g fill="#fff4d6" opacity=".9"><circle cx="318" cy="298" r="3.2"/><circle cx="338.5" cy="312.5419704298734" r="3.2"/><circle cx="359" cy="324.8700576850888" r="3.2"/><circle cx="379.5" cy="333.1074222354289" r="3.2"/><circle cx="400" cy="336" r="3.2"/><circle cx="420.5" cy="333.1074222354289" r="3.2"/><circle cx="441" cy="324.8700576850888" r="3.2"/><circle cx="461.5" cy="312.5419704298734" r="3.2"/><circle cx="482" cy="298" r="3.2"/></g>
+    <!-- placket + hem -->
+    <path d="M400 232 L400 520" stroke="#8a3b2a" stroke-width="3" opacity=".7"/>
+    <circle cx="400" cy="270" r="3.5" fill="#8a3b2a"/><circle cx="400" cy="330" r="3.5" fill="#8a3b2a"/><circle cx="400" cy="390" r="3.5" fill="#8a3b2a"/><circle cx="400" cy="450" r="3.5" fill="#8a3b2a"/>
+    <rect x="262" y="760" width="276" height="40" fill="#8a3b2a"/>
+    <path d="M262 770H538M262 790H538" stroke="#fff4d6" stroke-width="2" opacity=".7"/>
+    <path d="M262 590 L280 600 M538 590 L520 600" stroke="#000" stroke-opacity=".1" stroke-width="3"/>
+    <path d="M300 205 L300 330 M500 205 L500 330" stroke="#000" stroke-opacity=".08" stroke-width="3"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif"><rect x="496" y="42" width="260" height="30" rx="2" fill="#000" opacity=".55"/>
+  <text x="626" y="62" text-anchor="middle" font-size="12" letter-spacing="2.2" fill="#fff">PHOTO PLACEHOLDER</text></g>
+  <text x="44" y="950" font-family="Georgia, serif" font-style="italic" font-size="44" fill="#1f4a47" opacity=".75">Shasha</text></svg>

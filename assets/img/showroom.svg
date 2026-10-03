@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Placeholder product image"><rect width="800" height="1000" fill="#f4e8d8"/>
+       <rect x="60" y="60" width="680" height="880" fill="none" stroke="#1f4a47" stroke-width="2"/>
+       <rect x="80" y="80" width="640" height="840" fill="none" stroke="#c93f7c" stroke-width="1.5"/>
+       <g transform="translate(400,380)" fill="#c93f7c" opacity=".85"><ellipse rx="26" ry="86" transform="rotate(0) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(36) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(72) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(108) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(144) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(180) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(216) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(252) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(288) translate(0,-96)"/><ellipse rx="26" ry="86" transform="rotate(324) translate(0,-96)"/></g>
+       <circle cx="400" cy="380" r="26" fill="#f2b94e"/>
+       <text x="400" y="640" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="92" fill="#1f4a47">Shasha</text>
+       <text x="400" y="690" text-anchor="middle" font-family="Arial" font-size="18" letter-spacing="9" fill="#1f4a47">VISIT THE SHOWROOM</text>
+       <g font-family="Arial" text-anchor="middle"><text x="400" y="800" font-size="12" letter-spacing="2.2" fill="#1f4a47" opacity=".6">PHOTO PLACEHOLDER</text></g></svg>
